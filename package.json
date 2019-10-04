@@ -1,0 +1,23 @@
+{
+  "name": "sammiti",
+  "version": "0.1.0",
+  "description": "SamMiti is 3D tools to make it easy",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "npx babel src --watch --out-dir dist",
+    "build": "npx babel src --out-dir dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sammiti",
+    "3D"
+  ],
+  "author": "Nattawut Singhchai",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.6.2",
+    "@babel/core": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
+    "nodemon": "^1.19.3"
+  }
+}
