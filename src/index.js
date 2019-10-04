@@ -1,7 +1,5 @@
-const tellMeThanMeaningOfLife = () => {
-  console.log('Shiggidy Diggidy');
+const sayHello = () => {
+  console.log('Hello World');
 };
 
-tellMeThanMeaningOfLife();
-
-export default tellMeThanMeaningOfLife;
+export default sayHello;

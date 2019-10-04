@@ -12,6 +12,10 @@
     "sammiti",
     "3D"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indevizible/sammiti.git"
+  },
   "author": "Nattawut Singhchai",
   "license": "MIT",
   "devDependencies": {
